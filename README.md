@@ -1,6 +1,12 @@
-## This project is now in maintenance mode. We cannot promise to review contributions. Please feel free to fork the project to apply any changes you might want to make.
-
 # GitHub Action for driftctl
+
+## This project was forked from `snyk/driftctl-action` which is now in maintenance mode
+
+## I ([seth](https://github.com/seth-acuitymd)) am going to see if I can get this project moving again, at least for my own use
+
+The fork for `driftctl` itself is here: [seth-acuitymd/driftctl](https://github.com/seth-acuitymd/driftctl)
+
+## `driftctl-action`
 
 `driftctl-action` runs a full driftctl scan in your GitHub Actions workflow.
 
@@ -36,4 +42,3 @@ jobs:
 ### How to Contribute
 
 Should you wish to make a contribution please open a pull request against this repository with a clear description of the change with tests demonstrating the functionality.
-You will also need to agree to the [Contributor Agreement](https://gist.github.com/snyksec/201fc2fd188b4a68973998ec30b57686) before the code can be accepted and merged.
